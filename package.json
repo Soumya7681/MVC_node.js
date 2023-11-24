@@ -10,17 +10,6 @@
     "format": "prettier-eslint \"**/*.{js,json}\" --write",
     "lint": "eslint \"**/*.js\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/georgesimos/nodejs-mvc-starter.git"
-  },
-  "keywords": [],
-  "author": "George Simos",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/georgesimos/nodejs-mvc-starter/issues"
-  },
-  "homepage": "https://github.com/georgesimos/nodejs-mvc-starter#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "chalk": "^3.0.0",
